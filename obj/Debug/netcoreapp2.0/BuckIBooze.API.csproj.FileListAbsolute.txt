@@ -1,0 +1,10 @@
+C:\Users\Mason\BuckIBooze.API\bin\Debug\netcoreapp2.0\BuckIBooze.API.deps.json
+C:\Users\Mason\BuckIBooze.API\bin\Debug\netcoreapp2.0\BuckIBooze.API.runtimeconfig.json
+C:\Users\Mason\BuckIBooze.API\bin\Debug\netcoreapp2.0\BuckIBooze.API.runtimeconfig.dev.json
+C:\Users\Mason\BuckIBooze.API\bin\Debug\netcoreapp2.0\BuckIBooze.API.dll
+C:\Users\Mason\BuckIBooze.API\bin\Debug\netcoreapp2.0\BuckIBooze.API.pdb
+C:\Users\Mason\BuckIBooze.API\obj\Debug\netcoreapp2.0\BuckIBooze.API.csproj.CoreCompileInputs.cache
+C:\Users\Mason\BuckIBooze.API\obj\Debug\netcoreapp2.0\BuckIBooze.API.AssemblyInfoInputs.cache
+C:\Users\Mason\BuckIBooze.API\obj\Debug\netcoreapp2.0\BuckIBooze.API.AssemblyInfo.cs
+C:\Users\Mason\BuckIBooze.API\obj\Debug\netcoreapp2.0\BuckIBooze.API.dll
+C:\Users\Mason\BuckIBooze.API\obj\Debug\netcoreapp2.0\BuckIBooze.API.pdb
